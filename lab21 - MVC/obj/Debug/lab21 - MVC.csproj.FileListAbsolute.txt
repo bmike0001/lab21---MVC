@@ -1,0 +1,46 @@
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\ApplicationInsights.config
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\csc.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\vbc.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\lab21 - MVC.dll.config
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\lab21 - MVC.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\lab21 - MVC.pdb
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Helpers.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Mvc.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Razor.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Webpages.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Razor.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Webpages.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Helpers.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\bin\System.Web.Mvc.xml
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\obj\Debug\lab21 - MVC.csprojResolveAssemblyReference.cache
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\obj\Debug\lab21 - MVC.dll
+C:\Users\ExperienceIT\Documents\Visual Studio 2015\Projects\lab21 - MVC\lab21 - MVC\obj\Debug\lab21 - MVC.pdb
